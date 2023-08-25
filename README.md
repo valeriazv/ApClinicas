@@ -10,18 +10,18 @@ Las aplicaciones clínicas en señales e imágenes se refieren al uso de técnic
 
 Se puede enfocar en distintas áreas clínicas como:
 
-## Cardiología:
+### Cardiología:
 - Diagnóstico de arritmias cardíacas mediante el análisis de electrocardiogramas (ECG).
 - Evaluación de la función cardíaca y detección de enfermedades cardíacas a través de imágenes de ecocardiografía.
 
-## Neurología:
+### Neurología:
 - Estudio de la actividad cerebral y diagnóstico de trastornos neurológicos a través de electroencefalografías (EEG).
 Análisis de imágenes de resonancia magnética funcional (fMRI) para investigar la actividad cerebral relacionada con funciones cognitivas y trastornos neurológicos.
 
-## Radiología:
+### Radiología:
 - Interpretación de imágenes médicas, como radiografías, tomografías computarizadas (TC) y resonancias magnéticas (RM), para el diagnóstico de diversas condiciones y lesiones.
 
-## Oncología:
+### Oncología:
 - Detección temprana de tumores y seguimiento de la progresión del cáncer a través de imágenes médicas y análisis de tejidos.
 Planificación de tratamientos de radioterapia basados en imágenes para maximizar la precisión y minimizar el daño a los tejidos sanos.
 
