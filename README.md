@@ -46,3 +46,7 @@ Actualmente tengo 21 años, y soy  estudiante de la carrera de Ingeniería Biom�
 </p>
 
 ### Alvaro Segura Montalvo
+##### alvaro.segura@upch.pe
+
+Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Mi principal motivación para llevar este curso es el interes que tengo de aprender aplicaciones directas de esta rama de especialización pues veo la posibilidad de quiza usar estos conceptos en mi tesis que estoy desarrollando. 
+
