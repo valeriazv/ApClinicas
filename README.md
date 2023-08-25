@@ -6,6 +6,8 @@ Las aplicaciones clínicas en señales e imágenes se refieren al uso de técnic
   <img src="https://d100mj7v0l85u5.cloudfront.net/s3fs-public/Banco-de-imagenes.jpg" alt="Descripción de la imagen" width="700" height="400" align="center" >
 </p>
 
+
+
 Se puede enfocar en distintas áreas clínicas como:
 
 ## Cardiología:
