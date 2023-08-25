@@ -51,5 +51,5 @@ Actualmente tengo 21 años, y soy  estudiante de la carrera de Ingeniería Biom�
 Me encuentro en 9no ciclo de Ingenieria Biomedica, y me inclino por las ramas de biomecanica y señales e imagenes; sin embargo, tambien tengo conocimientos en ingeniería clínica. Mi principal motivación para llevar este curso es el interes que tengo de aprender aplicaciones directas de esta rama de especialización pues veo la posibilidad de quiza usar estos conceptos en mi tesis que estoy desarrollando. 
 
 <p align="center">
-<img src="![image](https://github.com/valeriazv/ApClinicas/assets/142522861/c053346d-21fd-478f-9373-c1e37cd17e91)" width="150" height="160" align="center">
+<img src="https://i.postimg.cc/2S7Rxyvt/imagen-2023-08-25-114003871.png" width="150" height="160" align="center">
 </p>
